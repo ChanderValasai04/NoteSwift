@@ -11,5 +11,5 @@ const EmptyCard = ({ imgSrc, message }) => {
     </div>
   )
 }
-
+<></>
 export default EmptyCard
