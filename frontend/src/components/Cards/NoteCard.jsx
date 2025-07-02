@@ -1,5 +1,4 @@
 import React from "react"
-import { FaTags } from "react-icons/fa6"
 import { MdCreate, MdDelete, MdOutlinePushPin } from "react-icons/md"
 import moment from "moment"
 
